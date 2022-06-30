@@ -142,7 +142,7 @@ export default function App() {
   // Para trabajar desde localhost hay que descomentar el que dice pruebas y comentar el que dice produccion y para trabajar en modo produccion o en un IIS hay que hacer al reves
 
   //const rutaServidor = "/"; //Pruebas
-  const rutaServidor = "/landing-page"; //produccion
+  const rutaServidor = "/requestsa"; //produccion
 
   return (
     <BrowserRouter>
